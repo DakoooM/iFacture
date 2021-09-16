@@ -11,13 +11,13 @@ ____
 
 ### English:
 
-- configure the script from a config file super easily!
+- Configure the script easily!
 - join my discord if you need help: discord.gg/ss4H3VKAZ4
 - This resource was made in the space of 2 hours of live on my twitch channel (twitch.tv/dakaum)
 
 ### Francais:
 
-- Configurer le script depuis un fichier config super facilement !
+- Configurer le script facilement !
 - Rejoignez mon discord si vous avez besoin d'aide: discord.gg/ss4H3VKAZ4
 - Cette resource a été réaliser en l'espace de 2 heures de live sur ma chaine twitch (twitch.tv/dakaum)
 
