@@ -5,7 +5,7 @@
 ### How to start this resource ?
 - Add this line to server.cfg `ensure iFacture`
 
-### Preview: https://streamable.com/r6lfod
+<!-- ### Preview: https://streamable.com/r6lfod -->
 
 ____
 
