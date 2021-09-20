@@ -1,4 +1,5 @@
 local iFacture = {
+	openClientMenu  = "F6"
     Config = {
         sharedObject = "esx:getSharedObject"
     }
