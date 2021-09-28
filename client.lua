@@ -170,4 +170,4 @@ AddEventHandler("iFacture:openThis", function(montant, entreprise, createdBy, Pl
     iFacture.openServerMenu(montant, entreprise, createdBy, PlayerId, reason)
 end)
 
-Keys.Register("F7", "-menfou", "open f6 menu facture", iFacture.openClientMenu)
+Keys.Register("F7", "facture", "open f6 menu facture", iFacture.openClientMenu)
